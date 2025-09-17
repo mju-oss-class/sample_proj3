@@ -1,2 +1,2 @@
 # sample_proj3
-# 10team fighting
+# 10 team
